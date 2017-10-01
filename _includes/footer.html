@@ -1,0 +1,18 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-content">
+      <p>{{site.description}} </p>
+      <p>Subscribe <a href="{{ " /feed.xml "| prepend: site.baseurl }}">via RSS</a></p>
+    </div>
+    <div class="footer-social">
+      <ul>
+	<li>
+	  {% include icon-twitter.html %}
+	</li>
+	<li>
+	  {% include icon-github.html %}
+	</li>
+      </ul>
+    </div>
+  </div>
+</footer>

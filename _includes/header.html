@@ -1,0 +1,8 @@
+<h1 class="site-title"><a href="{{ site.baseurl }}/" >{{ site.title }}</a></h1></header><nav class="site-nav">
+  <ul>
+    {% for link in site.links %}
+    <li>
+      <a href="{{ site.baseurl }}{{ link.url }}">{{link.title}}</a>
+      {% endfor %}
+  </ul>
+</nav>

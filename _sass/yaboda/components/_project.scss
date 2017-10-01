@@ -1,0 +1,24 @@
+.project-list {
+  padding:0;
+  list-style:none;
+  display: inline-table;
+  width:100%;
+}
+
+.project {
+  float:left;
+  width:auto;
+  pading:0 1em;
+  margin: 1em 1em 1em 1em;
+  text-align:center;
+  display:table-cell;
+}
+
+.project-img {
+  height: 20vw;
+  width: 20vw ;
+}
+.project-caption {
+  margin-top:0.5em;
+  font-size:$h3-font-size;
+}

@@ -1,0 +1,12 @@
+---
+layout: page
+---
+<!-- section for featured posts -->
+<h1>Projects History</h1>
+<ul class="post-list">
+  {% for post in site.categories['projects'] %}
+  <li class="post-featured">
+    {% include post.html %}
+  </li>
+  {% endfor %}
+</ul>

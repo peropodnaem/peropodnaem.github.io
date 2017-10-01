@@ -1,0 +1,10 @@
+<li class="project">
+  <a href="{{ project.url |relative_url }}">
+    <figure>
+      <img src="{{ project.featured_image|relative_url }}" alt="Thumbnail for {{ project.url|relative_url }}" class="project-img">
+      <figcaption class="project-caption">
+	{{ project.title }}
+      </figcaption>
+    </figure>
+  </a>
+</li>

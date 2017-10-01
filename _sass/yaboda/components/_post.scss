@@ -1,0 +1,40 @@
+.post-list {
+    @extend %clearfix;
+    list-style:none;
+}
+
+.post {
+    float: left;
+    width: 50%;
+    padding: 0 3em 1em;
+    color: $text-color;
+
+    &:nth-child(odd) {
+	clear: both;
+    }
+
+}
+.post-content {
+    width: 80%;
+}
+
+.post-read-more-link {
+    text-align:center;
+    a {
+    color: $red-color;
+    }
+}
+
+.post-featured {
+    float: none;
+    margin: 0 auto;
+}
+
+.post-tags {
+    color: $purple-color;
+    min-height: 50px;
+    text-align: center;
+    li {
+	display: inline;
+    }
+}

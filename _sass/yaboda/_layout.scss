@@ -1,0 +1,165 @@
+.site-nav {
+  a {
+    color: $white-color;
+    text-decoration: none;
+    transition: 0.3s;
+  
+    &:hover {
+      color: $brand-color;
+      } 
+    }   
+    
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-family: $title-font-family;
+    font-size: 1.5vw;
+    ul {
+	margin: 0 0;
+	list-style:none;
+	 white-space:nowrap;
+	 display: inline-block;
+	 width: 70%;
+	 display: inline-table;
+
+    }
+
+    li {
+        display: table-cell;
+	margin: 0 0.5em;
+	font-size: 1.5em;
+    }
+    background: url('../images/top_bar.png');
+    background-size: cover;
+    border-style: 0.1px solid;
+    position: bottom;
+}
+
+
+.site-title {
+    text-align: center;
+    font-family: $title-font-family;
+    .a {
+	color: #000;
+    }
+}
+
+.site-header {
+  a {
+    color: $white-color;
+    text-decoration: none;
+    transition: 0.3s;
+  
+    &:hover {
+      color: $brand-color;
+      } 
+    }   
+    padding: 2em 0 0;
+    border: 0;
+    background: url('../images/main_header.jpeg');
+    background-size: cover;
+}
+
+.site-index-header {
+  a {
+    color: $white-color;
+    text-decoration: none;
+    transition: 0.3s;
+  
+    &:hover {
+      color: $brand-color;
+      } 
+    }   
+    padding: 2em 0 0;
+    border: 0;
+    height: 320px;
+    background-size: cover;
+
+}
+
+.index-body {
+    background: url('../images/main_header.jpeg');
+    background-size: cover;
+    color: $white-color;
+    margin: 0.1em;
+    .site-nav {
+    	      height: 3em;
+    }
+}
+
+.page-content {
+    background-size: cover;
+    background: rgba(120, 120, 120, 0.8);
+    font-size: 1.2em;	
+}
+
+
+.site-footer {
+    background: url('../images/top_bar.png');
+    background-size: cover;
+    position: relative;
+    background-position: center center; 
+}
+
+.footer-content {
+    float: left;
+    text-align: left;
+    width: 60%;
+    text-size: 1vw;
+}
+
+.footer-social {
+    ul {
+	margin: 1em 0;
+	list-style:none;
+    }
+
+    li {
+	display: inline-block;
+	margin: 0 0.5em;
+	font-size: 1.5em;
+    }
+
+}
+
+
+// sections
+
+.site-section {
+    @extend %clearfix;
+    padding-top: $h1-font-size;
+}
+
+
+.site-section {
+    @extend %clearfix;
+    padding-top: $h1-font-size;
+}
+
+.site-section {
+    padding-bottom: $h1-font-size;
+}
+
+.contacts-info {
+	       width: 80%;
+}
+
+.contacts-image {
+		border: 10px solid transparent;
+				
+}
+
+.contacts {
+    margin: 10px;
+    ul {
+	list-style:none;
+	display: inline-table;
+    }
+
+    li {
+        display: table-cell;
+	margin: 30px 30px 30px 30px;
+
+    }
+
+}

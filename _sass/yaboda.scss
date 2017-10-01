@@ -1,0 +1,80 @@
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Lobster|Slabo+27px);
+@import url('https://fonts.googleapis.com/css?family=Pattaya');
+@charset "utf-8";
+
+// Google font variables
+$slabo-gfont: 'Slabo 27px', serif;
+$lobster-gfont: 'Lobster', cursive;
+$gloria-gfont: 'Gloria Hallelujah', cursive;
+$pattaya-gfont: 'Pattaya';
+
+// Define defaults for each variable.
+
+$base-font-family: $lobster-gfont; //"Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$title-font-family: $pattaya-gfont;
+
+$mega-font-size: 100px;
+$h1-font-size: 7em;
+$h2-font-size: 4em;
+$h3-font-size: 3em;
+$h4-font-size: 2.4em;
+
+$spacing-unit:     30px !default;
+
+// some colors
+
+$green-color:	   #00cc00;
+$blue-color:	   #92b5bd;
+$yellow-color:	   #ede24e;
+$red-color:	   #df6d59;
+$purple-color:	   #6b2339;
+$black-color:	   #000000;
+$white-color:	   #ffffff;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+
+$text-color:       #333 !default;
+$background-color: #fefef3 !default;
+$brand-color:      $red-color !default;
+
+
+// Width of the content area
+$content-width:    1200px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+// Import partials.
+@import
+  "yaboda/base",
+  "yaboda/layout",
+  "yaboda/syntax-highlighting",
+  "yaboda/components/post",
+  "yaboda/components/project"
+;
