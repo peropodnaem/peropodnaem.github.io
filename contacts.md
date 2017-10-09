@@ -1,12 +1,22 @@
 ---
-layout: contacts_page
+layout: page
 title: Контакти
 permalink: /contacts/
+style: |
+    .page-background {
+        background: url("/images/contacts.jpeg");
+    }
 ---
 
-Не се колебайте да се свържете с мен на посочения по-долу имейл или телефон: 
+<br>
+<br>
+	
+Не се колебайте да се свържете с мен на посочения по-долу имейл: 
 
 
-Hello@peropodnaem.com
+peropodnaem@gmail.com
 
-0895 777 086 
+
+
+<br>
+<br>
