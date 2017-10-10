@@ -90,7 +90,7 @@
 
 
 .index-body {
-    background: url('../images/main_header.jpeg');
+    background: url('../images/main_header.jpeg') no-repeat fixed center;
     background-size: cover;
     color: $white-color;
     margin: 0.1em;
