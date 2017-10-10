@@ -14,9 +14,9 @@ style: |
 Не се колебайте да се свържете с мен: 
 <br>
 <br>
- [peropodnaem@gmail.com](peropodnaem@gmail.com)
+ [peropodnaem@gmail.com](mailto:peropodnaem@gmail.com)
 <br>
 <br>
- [0876589586](0876589586)
+ [0876589586](tel:0876589586)
 <br>
 <br>
