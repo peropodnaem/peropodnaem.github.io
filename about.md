@@ -39,6 +39,9 @@ style: |
 <br>
 Тук може да прочетете малка част от авторските ми текстове, както и да видите някой видеа с мое участие: 
 
+* [Какво е любов, тате ?](http://mamaninja.bg/общество/истории/item/1418-kakvo-e-lyubov,-tate)
+
+* [Защо да (не) изберете Холандия](http://mamaninja.bg/общество/истории/item/1387-zashto-da-ne-izberete-holandiya)
 
 * [Как да реагираме, когато детето ни посяга](http://www.btv.bg/video/shows/predi-obed/videos/kak-da-reagirame-kogato-deteto-ni-posjaga.html)
 
