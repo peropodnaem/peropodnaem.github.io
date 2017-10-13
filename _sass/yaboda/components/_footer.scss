@@ -1,0 +1,39 @@
+.site-footer {
+    background-size: cover;
+    background-color: rgba(120, 120, 120, 0.8);
+    position: bottom;
+    background-position: center center;
+    font-family: $title-font-family;
+    a {
+	color: $white-color;
+    }
+    margin-bottom: 0px;
+}
+
+.footer-content {
+    float: left;
+    text-align: left;
+    text-size: 1vw;
+    display: inline-block;
+    width: 60%;
+}
+
+.footer-wrapper{
+    width: 80%;
+    display: inline-flex;
+}
+
+.footer-social {
+    text-align: right;
+    ul {
+	list-style:none;
+	display: inline-block;
+    }
+    
+    li {
+	margin: 0.5em;
+	font-size: 1em;
+    }
+    
+}
+

@@ -1,0 +1,38 @@
+.site-nav {
+    a {
+	color: $white-color;
+	text-decoration: none;
+	transition: 0.3s;
+	
+	&:hover {
+	    color: $brand-color;
+	} 
+    }   
+    
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-family: $title-font-family;
+    font-size: 1.5vw;
+    ul {
+	margin: 0 0;
+	list-style:none;
+	white-space:nowrap;
+	width: 70%;
+	display: inline-table;
+    }
+    
+    li {
+        display: table-cell;
+	margin: 0 0.5em;
+	font-size: 1.5em;
+    }
+    background: rgba(120, 120, 120, 0.8);
+    background-size: cover;
+    margin: 1em 0 1em 0 ;
+}
+
+.site-nav-index {
+    background: rgba(120, 120, 120, 0.8);
+    background-size: cover;
+}
