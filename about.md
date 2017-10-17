@@ -34,7 +34,7 @@ style: |
 
 
 <br>
-Тук може да прочетете малка част от авторските ми текстове, както и да видите някой видеа с мое участие: 
+Тук може да прочетете малка част от авторските ми текстове, както и да видите някои видеа с мое участие: 
 
 * [Какво е любов, тате ?](http://mamaninja.bg/общество/истории/item/1418-kakvo-e-lyubov,-tate)
 
@@ -43,4 +43,4 @@ style: |
 * [Как да реагираме, когато детето ни посяга](http://www.btv.bg/video/shows/predi-obed/videos/kak-da-reagirame-kogato-deteto-ni-posjaga.html)
 
 
-* [На снимачната площадка, на "Столичани в повече"](http://www.btv.bg/video/shows/predi-obed/videos/na-snimachnata-ploshtadka-na-stolichani-v-poveche.html)
+* [На снимачната площадка на "Столичани в повече"](http://www.btv.bg/video/shows/predi-obed/videos/na-snimachnata-ploshtadka-na-stolichani-v-poveche.html)
