@@ -40,9 +40,9 @@ style: |
 
 * [На снимачната площадка на "Столичани в повече"](http://www.btv.bg/video/shows/predi-obed/videos/na-snimachnata-ploshtadka-na-stolichani-v-poveche.html)
 
-* [Осмели се да опиташ] http://mamaninja.bg/мама/кариера/item/1505-osmeli-se-da-opitash
+* [Осмели се да опиташ](http://mamaninja.bg/мама/кариера/item/1505-osmeli-se-da-opitash)
   
-* [Тя, която винаги се връща?] (http://www.highviewart.com/cvetno/tya-koyato-vinagi-se-vrashta-9048.html)
+* [Тя, която винаги се връща?](http://www.highviewart.com/cvetno/tya-koyato-vinagi-se-vrashta-9048.html)
 
 * [Защо да (не) изберете Холандия](http://mamaninja.bg/общество/истории/item/1387-zashto-da-ne-izberete-holandiya)
 
