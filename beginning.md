@@ -1,6 +1,6 @@
 ---
 layout: beginning_page
-permalink: /
+permalink: /beginning/
 style: |
     .page-background {
         background: url("/images/beginning.jpeg");
