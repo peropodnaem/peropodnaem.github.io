@@ -33,10 +33,10 @@ links:
    url: /services
  - title: За мен
    url: /about
- - title: Контакти
-   url: /contacts
  - title: Блог
    url: https://danishouse.wordpress.com/
+ - title: Контакти
+   url: /contacts
 
 # Build settings
 markdown: kramdown
