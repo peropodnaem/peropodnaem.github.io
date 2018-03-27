@@ -14,7 +14,8 @@ style: |
       itemtype="http://schema.org/ListItem">
     <a itemscope itemtype="http://schema.org/Service"
        itemprop="item" href="http://peropodnaem.com">
-        <span itemprop="name">Услуги</span><meta itemprop="position" content="1"></li>
+        <span itemprop="name">Услуги</span>
+    </li>
   ›
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
