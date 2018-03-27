@@ -1,26 +1,26 @@
 ---
 layout: page
 title: Специалист Социални Медии
-permalink: /специалист-социални-медии/
+permalink: /услуги/специалист-социални-медии/
 style: |
     .page-background {
         background: url("/images/me.jpeg");
     }
-    ol {float:left;}
+    li {float:left;}
 ---
 
 <ol itemscope itemtype="http://schema.org/BreadcrumbList">
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
     <a itemscope itemtype="http://schema.org/Service"
-       itemprop="item" href="http://peropodnaem.com">
+       itemprop="item" href="http://peropodnaem.com/услуги/">
         <span itemprop="name">Услуги</span></a>
    <meta itemprop="position" content="2"></li>
   ›
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
     <a itemscope itemtype="http://schema.org/Service"
-       itemprop="item" href="http://peropodnaem.com/sercvices/специалист-социални-медии/">
+       itemprop="item" href="http://peropodnaem.com/услуги/специалист-социални-медии/">
         <span itemprop="name">Специалист социални медии</span></a>
     <meta itemprop="position" content="2"></li>
 </ol>

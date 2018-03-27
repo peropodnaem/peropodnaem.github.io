@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Услуги и цени
-permalink: /services/
+permalink: /услуги/
 style: |
     .page-background {
         background: url("/images/services.jpeg");
