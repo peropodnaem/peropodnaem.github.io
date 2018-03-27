@@ -15,7 +15,7 @@ style: |
     <a itemscope itemtype="http://schema.org/Service"
        itemprop="item" href="http://peropodnaem.com">
         <span itemprop="name">Услуги</span>
-    <meta itemprop="position" content="1" />
+    <meta itemprop="position" content="1">
   </li>
   ›
   <li itemprop="itemListElement" itemscope
@@ -23,7 +23,7 @@ style: |
     <a itemscope itemtype="http://schema.org/Service"
        itemprop="item" href="http://peropodnaem.com/sercvices/специалист-социални-медии/">
         <span itemprop="name">Специалист социални медии</span>
-    <meta itemprop="position" content="2" />
+    <meta itemprop="position" content="2">
   </li>
 </ol>
 
