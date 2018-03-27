@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Специалист Социални Медии
-permalink: /services/специалист-социални-медии/
+permalink: /специалист-социални-медии/
 style: |
     .page-background {
         background: url("/images/me.jpeg");
@@ -14,8 +14,7 @@ style: |
       itemtype="http://schema.org/ListItem">
     <a itemscope itemtype="http://schema.org/Service"
        itemprop="item" href="http://peropodnaem.com">
-        <span itemprop="name">Услуги</span>
-    <meta itemprop="position" content="1"></li>
+        <span itemprop="name">Услуги</span><meta itemprop="position" content="1"></li>
   ›
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
