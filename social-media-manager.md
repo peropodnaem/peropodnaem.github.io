@@ -6,23 +6,24 @@ style: |
     .page-background {
         background: url("/images/me.jpeg");
     }
+    ol {float:left;}
 ---
 
-<ol itemscope itemtype=`http://schema.org/BreadcrumbList`>
-  <li itemprop=`itemListElement` itemscope
-      itemtype=`http://schema.org/ListItem`>
-    <a itemscope itemtype=`http://schema.org/Service`
-       itemprop=`item` href=`http://peropodnaem.com`>
-        <span itemprop=`name`>Услуги</span>
-    <meta itemprop=`position` content=`1` />
+<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+  <li itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+    <a itemscope itemtype="http://schema.org/Service"
+       itemprop="item" href="http://peropodnaem.com">
+        <span itemprop="name">Услуги</span>
+    <meta itemprop="position" content="1" />
   </li>
   ›
-  <li itemprop=`itemListElement` itemscope
-      itemtype=`http://schema.org/ListItem`>
-    <a itemscope itemtype=`http://schema.org/Service`
-       itemprop=`item` href=`http://peropodnaem.com/sercvices/специалист-социални-медии/`>
-        <span itemprop=`name`>Специалист социални медии</span>
-    <meta itemprop=`position` content=`2` />
+  <li itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+    <a itemscope itemtype="http://schema.org/Service"
+       itemprop="item" href="http://peropodnaem.com/sercvices/специалист-социални-медии/">
+        <span itemprop="name">Специалист социални медии</span>
+    <meta itemprop="position" content="2" />
   </li>
 </ol>
 
