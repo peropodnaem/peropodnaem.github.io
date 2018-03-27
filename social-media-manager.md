@@ -31,7 +31,7 @@ style: |
         <span itemprop="name">Специалист социални медии</span></a>
     <meta itemprop="position" content="3"></li>
 </ol>
-
+<div class="clear">
 
 
 <h2>Специалист социални медии</h2>
