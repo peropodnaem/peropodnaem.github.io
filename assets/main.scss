@@ -3,7 +3,6 @@
 ---
 @import "yaboda";
 
-.breadcrumbs li {list-style: none;}
-.breadcrumbs a {color: white; font-weight: 400; font-size: 1vw; text-transform: lowercase;}
-.bcrumb-spearator {padding: 0 10px;}
+.breadcrumbs li {list-style: none; padding: 0 10px; font-weight: 400; font-size: 1vw;}
+.breadcrumbs a {color: white;}
 div.clear {clear: both;}
