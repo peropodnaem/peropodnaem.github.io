@@ -6,7 +6,6 @@ style: |
     .page-background {
         background: url("/images/me.jpeg");
     }
-    li {float:left;}
 ---
 
 <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
