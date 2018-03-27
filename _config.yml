@@ -35,6 +35,8 @@ links:
    url: /about
  - title: Контакти
    url: /contacts
+ - title: Блог
+   url: https://danishouse.wordpress.com/
 
 # Build settings
 markdown: kramdown
