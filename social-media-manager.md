@@ -9,7 +9,7 @@ style: |
     li {float:left;}
 ---
 
-<ol itemscope itemtype="http://schema.org/BreadcrumbList">
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
   <li itemprop="itemListElement" itemscope
       itemtype="http://schema.org/ListItem">
     <a itemscope itemtype="http://schema.org/Service"
