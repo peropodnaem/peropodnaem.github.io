@@ -20,9 +20,11 @@ linkedin_username: dani-rangelova-1a895139
 wordpress_username: danishouse
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://peropodnaem.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://peropodnaem.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: /:categories/:title
+
+
 
 links:
  - title: Начало
