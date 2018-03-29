@@ -1,0 +1,42 @@
+---
+layout: page
+title: PR и Организиране на събития 
+permalink: /услуги/pr-организиране-на-събития/
+style: |
+    .page-background {
+        background: url("/images/me.jpeg");
+    }
+---
+
+<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+  <li itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+    <a itemscope itemtype="http://schema.org/Service"
+       itemprop="item" href="http://peropodnaem.com/">
+        <span itemprop="name">Начало</span></a>
+   <meta itemprop="position" content="1"></li>
+  <li classs="bcrumb-spearator"> › </li>
+  <li itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+    <a itemscope itemtype="http://schema.org/Service"
+       itemprop="item" href="http://peropodnaem.com/услуги/">
+        <span itemprop="name">Услуги</span></a>
+   <meta itemprop="position" content="2"></li>
+  <li classs="bcrumb-spearator"> › </li>
+  <li itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+    <a itemscope itemtype="http://schema.org/Service"
+       itemprop="item" href="http://peropodnaem.com/услуги/pr-организиране-на-събития/">
+        <span itemprop="name">PR и Организиране на събития</span></a>
+    <meta itemprop="position" content="3"></li>
+</ol>
+<div class="clear">
+
+
+<h2>PR и Организиране на събития</h2>
+
+<p>Организирането на различни събития, както и създаването на връзки с медиите, като част от изграждането на имиджа на даден човек или компания са дейности, с които на пръв поглед всеки може да се справи. Това е и причината за толкова неуспешни <strong>ПИАР</strong> кампании или талантливи хора, за които никой у нас не е чувал.</p>
+
+<p>Създадох сайта <a href="www.peropodnaem.com">http://peropodnaem.com/</a>, а малко по-късно и продуцентската ми къща "Оne Media" с идеята да бъдат отговорен партньор на всеки бизнес или човек, който има нужда от услугите на PR специалист. Години наред работех "от другата страна" като журналист, който добре знае какво търсят, очакват и поставят като изисквания медиите, преди да пуснат даден прес-релийз за компания или да поканят човек за гостуване. Благодарение на натрупания опит, създадох достатъчно връзки и полезни контакти в медиите, за да мога днес да си позволя да не заблуждавам клиентите си в много отношения и да давам реалистични обещания, основани на практически познания.</p>
+
+<p>Що се отнася до организирането на събития едно нещо знам със сигурност половината от работата е свършена, когато има правилно планиране, добра организация и много креативност, предшестваща събитието. Организацията на едно събитие в много отношения напомня всеки ефир, който подготвяш от и деята, през разработването и намирането на информацията, правилните източници, гостите и реализирането на предаването. Много <strong>pr специалисти</strong> в наши дни, обаче никога не са били на "минното поле" на живия ефир, не планират, не организират и не създават своите събития, проигравайки предварително всички възможни варианти. Пазете се от подобен тип виртуози.</p>
