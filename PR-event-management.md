@@ -2,13 +2,14 @@
 layout: page
 title: PR и Организиране на събития 
 permalink: /услуги/pr-организиране-на-събития/
-<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-<meta name="description" content="Перо под наем е Вашият отговорен партньор що се отнася до PR и организиране на събития">
 style: |
     .page-background {
         background: url("/images/me.jpeg");
     }
 ---
+
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+<meta name="description" content="Перо под наем е Вашият отговорен партньор що се отнася до PR и организиране на събития">
 
 <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
   <li itemprop="itemListElement" itemscope
