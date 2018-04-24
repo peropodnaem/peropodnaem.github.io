@@ -35,6 +35,9 @@ style: |
 
 <br>
 Тук може да прочетете малка част от авторските ми текстове, както и да видите някои видеа с мое участие: 
+
+<iframe width="640" height="360" src="https://embed.btv.bg/lbin/global/embed.php?v=2110127509" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
 * [Какво е любов, тате ?](http://mamaninja.bg/общество/истории/item/1418-kakvo-e-lyubov,-tate)
 * [На снимачната площадка на "Столичани в повече"](http://www.btv.bg/video/shows/predi-obed/videos/na-snimachnata-ploshtadka-na-stolichani-v-poveche.html)
 * [Осмели се да опиташ](http://mamaninja.bg/мама/кариера/item/1505-osmeli-se-da-opitash)
