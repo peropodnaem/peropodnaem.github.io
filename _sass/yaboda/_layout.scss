@@ -18,14 +18,13 @@
 .page-content {
     font-family: $base-font-family;
     font-size: 1.3vw;
-    font-weight: bold;
+    font-weight: $base-font-weight;
     color: $white-color;
     background-size: cover;
     background-color: rgba(120, 120, 120, 0.8);
     width: 100%;
     height: 100%;
     display: block;
-
 }
 
 .page-background {
