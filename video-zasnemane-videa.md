@@ -8,35 +8,36 @@ style: |
         background: url("/images/me.jpeg");
     }
 ---
-
-<ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
-  <li itemprop="itemListElement" itemscope
-      itemtype="http://schema.org/ListItem">
-    <a itemscope itemtype="http://schema.org/Service"
-       itemprop="item" href="http://peropodnaem.com">
-        <span itemprop="name">Начало</span></a>
-   <meta itemprop="position" content="1"></li>
-  <li classs="bcrumb-spearator"> › </li>
-  <li itemprop="itemListElement" itemscope
-      itemtype="http://schema.org/ListItem">
-    <a itemscope itemtype="http://schema.org/Service"
-       itemprop="item" href="http://peropodnaem.com/услуги/">
-        <span itemprop="name">Услуги</span></a>
-   <meta itemprop="position" content="2"></li>
-  <li classs="bcrumb-spearator"> › </li>
-  <li itemprop="itemListElement" itemscope
-      itemtype="http://schema.org/ListItem">
-    <a itemscope itemtype="http://schema.org/Service"
-       itemprop="item">
-        <span itemprop="name">Видео заснемане</span></a>
-    <meta itemprop="position" content="3"></li>
-</ol>
+<div class="breadcrumbs-holder">
+    <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+    <li itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a itemscope itemtype="http://schema.org/Service"
+        itemprop="item" href="http://peropodnaem.com">
+            <span itemprop="name">Начало</span></a>
+    <meta itemprop="position" content="1"></li>
+    <li classs="bcrumb-spearator"> › </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a itemscope itemtype="http://schema.org/Service"
+        itemprop="item" href="http://peropodnaem.com/услуги/">
+            <span itemprop="name">Услуги</span></a>
+    <meta itemprop="position" content="2"></li>
+    <li classs="bcrumb-spearator"> › </li>
+    <li itemprop="itemListElement" itemscope
+        itemtype="http://schema.org/ListItem">
+        <a itemscope itemtype="http://schema.org/Service"
+        itemprop="item">
+            <span itemprop="name">Видео заснемане</span></a>
+        <meta itemprop="position" content="3"></li>
+    </ol>
+</div>
 <div class="clear">
 
 
 <h2>Видео заснемане</h2>
 
-Тук можете да видите някои видеа с мое участие: 
+<p>Тук можете да видите някои видеа с мое участие:</p>
 
 <div id="videos">
     <div class="video-holder">
