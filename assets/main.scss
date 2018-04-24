@@ -11,5 +11,9 @@ div.clear {clear: both;}
 .wrapper {margin:0 auto;}
 .footer-wrapper {padding: 20px;}
 h4, h5 {text-align: center;}
-#videos .video-holder {width: 500px; margin: 0 80px 80px 0; float: left;}
+#videos .video-holder {width: 515px; margin: 0 80px 80px 0; float: left;}
 #videos .video-holder:nth-child(even) {margin-right: 0px;}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 1160px) {
+    #videos .video-holder {width: 100%; margin: 0;}
+}
