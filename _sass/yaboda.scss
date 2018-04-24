@@ -5,13 +5,14 @@
 
 // Google font variables
 $slabo-gfont: 'Slabo 27px', serif;
+$open-sans-gfont: 'Open Sans', sans-serif;
 $lobster-gfont: 'Lobster', cursive;
 $gloria-gfont: 'Gloria Hallelujah', cursive;
 $pattaya-gfont: 'Pattaya';
 
 // Define defaults for each variable.
 
-$base-font-family: $slabo-gfont; //"Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$base-font-family: $open-sans-gfont; //"Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
