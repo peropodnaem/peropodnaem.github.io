@@ -28,7 +28,7 @@ style: |
     <li itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
         <a itemscope itemtype="http://schema.org/Service"
-        itemprop="item" href="http://peropodnaem.com/услуги/специалист-социални-медии/">
+        itemprop="item">
             <span itemprop="name">Специалист социални медии</span></a>
         <meta itemprop="position" content="3"></li>
     </ol>

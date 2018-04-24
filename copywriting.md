@@ -28,7 +28,7 @@ style: |
     <li itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
         <a itemscope itemtype="http://schema.org/Service"
-        itemprop="item" href="http://peropodnaem.com/услуги/копирайтър/">
+        itemprop="item">
             <span itemprop="name">Копирайтър</span></a>
         <meta itemprop="position" content="3"></li>
     </ol>

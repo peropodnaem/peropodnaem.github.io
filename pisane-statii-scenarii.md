@@ -28,7 +28,7 @@ style: |
     <li itemprop="itemListElement" itemscope
         itemtype="http://schema.org/ListItem">
         <a itemscope itemtype="http://schema.org/Service"
-        itemprop="item" href="http://peropodnaem.com/услуги/писане-статии-сценарии/">
+        itemprop="item">
             <span itemprop="name">Писане на статии и сценарии </span></a>
         <meta itemprop="position" content="3"></li>
     </ol>
