@@ -11,4 +11,5 @@ div.clear {clear: both;}
 .wrapper {margin:0 auto;}
 .footer-wrapper {padding: 20px;}
 h4, h5 {text-align: center;}
-#video-holder {width: 500px; padding: 0 0 80px 80px; float: left;}
+#videos .video-holder {width: 500px; margin: 0 0 80px 80px; float: left;}
+#videos .video-holder:nth-child(even) {margin-right: 0px;}
