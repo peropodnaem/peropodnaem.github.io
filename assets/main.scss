@@ -3,29 +3,32 @@
 ---
 @import "yaboda";
 
-.breadcrumbs li {list-style: none; float: left; padding: 0 10px; font-weight: 400; font-size: 1vw;}
+.breadcrumbs li {list-style: none; float: left; padding: 0 10px; font-weight: 400;}
 .breadcrumbs a {color: white;}
 .breadcrumbs a:hover {color: #df6d59;}
 div.clear {clear: both;}
 .wrapper p {padding-bottom: 40px;}
 .wrapper {margin:0 auto;}
-.footer-wrapper {padding: 20px;}
-h4, h5 {text-align: center;}
+.footer-wrapper {padding: 10px; font-size: 1vw;}
+h4, h5 {text-align: left;}
 #videos .video-holder {width: 510px; margin: 0 50px 80px 0; float: left;}
 #videos .video-holder:nth-child(even) {margin-right: 0px;}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 1160px) {
     #videos .video-holder {width: 100%; margin: 0;}
+    .footer-wrapper {font-size: 1.5vw;}
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
     .page-content {font-size: 3.5vw;}
     .site-nav li {font-size: 4vw;}
     h1 {font-size: 10vw};
+    .footer-wrapper {font-size: 3.5vw;}
 }
 
 @media only screen and (min-device-width : 641px) and (max-device-width : 1160px) {
     .page-content { font-size: 2vw;}
     .site-nav li {font-size: 3.5vw;}
     h1 {font-size: 10vw};
+    .footer-wrapper {font-size: 2vw;}
 }
