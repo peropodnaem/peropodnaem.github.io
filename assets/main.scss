@@ -11,21 +11,19 @@ div.clear {clear: both;}
 .wrapper {margin:0 auto;}
 .footer-wrapper {padding: 10px; font-size: 1vw;}
 h1, h2, h3, h4, h5, h6 {text-align: left; font-weight: bold;}
-h2 {padding-bottom: 30px;}
+h2 {padding-bottom: 30px; font-size: 2.5vw;}
 #videos .video-holder {width: 510px; margin: 0 50px 80px 0; float: left;}
 #videos .video-holder:nth-child(even) {margin-right: 0px;}
 .breadcrumbs-holder {float:left; padding-bottom: 20px;}
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 1160px) {
-    #videos .video-holder {width: 100%; margin: 0;}
-    .footer-wrapper {font-size: 1.5vw;}
-}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
     .page-content {font-size: 3.5vw;}
     .site-nav li {font-size: 4vw;}
     h1 {font-size: 10vw};
+    h2 {font-size: 5vw};
     h4 {font-size: 5vw};
+    h5 {font-size: 4vw};
     .footer-wrapper {font-size: 3.5vw;}
 }
 
@@ -34,4 +32,9 @@ h2 {padding-bottom: 30px;}
     .site-nav li {font-size: 3.5vw;}
     h1 {font-size: 10vw};
     .footer-wrapper {font-size: 2vw;}
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 1160px) {
+    #videos .video-holder {width: 100%; margin: 0;}
+    .footer-wrapper {font-size: 1.5vw;}
 }
