@@ -9,7 +9,7 @@
 div.clear {clear: both;}
 .wrapper p {padding-bottom: 40px;}
 .wrapper {margin:0 auto;}
-.footer-wrapper {padding: 10px; font-size: 1vw;}
+.footer-wrapper {padding: 10px; font-size: 1.5vw;}
 h1, h2, h3, h4, h5, h6 {text-align: left; font-weight: bold;}
 h2 {padding-bottom: 30px; font-size: 2.5vw;}
 #videos .video-holder {width: 100%; max-width: 600px; margin: 0 0 80px 0; }
@@ -35,5 +35,4 @@ h2 {padding-bottom: 30px; font-size: 2.5vw;}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 1160px) {
     #videos .video-holder {width: 100%; margin: 0;}
-    .footer-wrapper {font-size: 1.5vw;}
 }
