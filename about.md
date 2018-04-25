@@ -4,7 +4,7 @@ title: За мен
 permalink: /about/
 style: |
     .page-background {
-        background: url("/images/me2.jpeg");
+        background: url("/images/me.jpeg");
     }
 ---
 

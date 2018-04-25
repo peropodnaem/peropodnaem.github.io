@@ -5,7 +5,7 @@ permalink: /услуги/видео-заснемане/
 excerpt: ""
 style: |
     .page-background {
-        background: url("/images/me.jpeg");
+        background: url("/images/me2.jpeg");
     }
 ---
 <div class="breadcrumbs-holder">
