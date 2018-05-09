@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Професионално видео заснемане - Перо под Наем | peropodnaem.com
-permalink: /услуги/видео-заснемане/
+permalink: /услуги/видеозаснемане/
 excerpt: ""
 style: |
     .page-background {
