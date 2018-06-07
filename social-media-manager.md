@@ -10,22 +10,22 @@ style: |
 ---
 
 <div class="breadcrumbs-holder">
-    <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumbs">
     <li>
-        <a href="http://peropodnaem.com">
+        <a href="https://peropodnaem.com">
             <span>Начало</span></a>
     </li>
     <li classs="bcrumb-spearator"> › </li>
     <li itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem">
-        <a itemscope itemtype="http://schema.org/Service"
-        itemprop="item" href="http://peropodnaem.com/услуги/">
+        itemtype="https://schema.org/ListItem">
+        <a itemscope itemtype="https://schema.org/Service"
+        itemprop="item" href="https://peropodnaem.com/услуги/">
             <span itemprop="name">Услуги</span></a>
     <meta itemprop="position" content="1"></li>
     <li classs="bcrumb-spearator"> › </li>
     <li itemprop="itemListElement" itemscope
-        itemtype="http://schema.org/ListItem">
-        <a itemscope itemtype="http://schema.org/Service"
+        itemtype="https://schema.org/ListItem">
+        <a itemscope itemtype="https://schema.org/Service"
         itemprop="item">
             <span itemprop="name">Специалист социални медии</span></a>
         <meta itemprop="position" content="2"></li>
