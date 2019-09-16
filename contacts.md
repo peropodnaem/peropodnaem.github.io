@@ -17,6 +17,6 @@ style: |
  [peropodnaem@gmail.com](mailto:peropodnaem@gmail.com)
 <br>
 <br>
- [0876589586](tel:0876589586)
+ [+(359) 896 150 488](tel:+359896150488)
 <br>
 <br>
